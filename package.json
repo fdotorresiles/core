@@ -5,6 +5,9 @@
   "scripts": {
     "start": "node app/app.js"
   },
+  "engines": {
+    "node": ">=6.10.3"
+  },
   "author": "Mario Herrera & Luis Torres Siles",
   "license": "MIT",
   "keywords": [],

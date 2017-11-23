@@ -1,0 +1,15 @@
+{
+    "appName": "Grupo Gente Chat Bot",
+    "spellAPI": "857db31ef4a343cbbccc549a0dde5fb0",
+    "spelEndPoint": "api.cognitive.microsoft.com",
+    "sqlserver": {
+        "userName": "chatbot_admin",
+        "password": "azure2017.",
+        "server": "chatbotproyect.database.windows.net",
+        "options": 
+        {
+            "database": "DB_CHATBOT",
+            "encrypt": true
+        }
+    }
+}

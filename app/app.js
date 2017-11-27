@@ -68,7 +68,7 @@ bot.use({
 
                             return;
                         }
-                        new botActions(session, results[0][0].value);
+                        new botActions(session, result[0][0].value);
                     })
                     .catch((err) => {
                         return;
